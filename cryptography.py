@@ -1,8 +1,6 @@
 #30% of code was taken from https://nitratine.net/blog/post/encryption-and-decryption-in-python/
 #30% of code was taken from https://cryptography.io/en/latest/fernet/
 
-
-
 #pip install cryptography
 
 import os
