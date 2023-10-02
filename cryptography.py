@@ -1,5 +1,4 @@
-#30% of code was taken from https://nitratine.net/blog/post/encryption-and-decryption-in-python/
-#30% of code was taken from https://cryptography.io/en/latest/fernet/
+#This was an assignment for one of my Cyber Security Modules.
 
 #pip install cryptography
 
